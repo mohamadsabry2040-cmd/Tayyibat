@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tayyibat_app
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Tayyibat
+Tayyibat mobile application published on Google Play.
+>>>>>>> 3596f985a0cd6beac39bf7b9d06a2abac6024fb4
