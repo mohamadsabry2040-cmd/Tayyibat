@@ -1,0 +1,4 @@
+storePassword=0867721046
+keyPassword=0867721046
+keyAlias=tayyibat
+storeFile=C:/Users/hfss/tayyibat_app/tayyibat-key.jks
