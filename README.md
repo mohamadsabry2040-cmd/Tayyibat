@@ -1,22 +1,24 @@
-<<<<<<< HEAD
-# tayyibat_app
+# 🛍️ Tayyibat App
 
-A new Flutter project.
+A modern Flutter mobile application for discovering food, services, and lifestyle categories like restaurants, stores, gyms, clinics, and honey products.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 About the App
+Tayyibat is a mobile application published on Google Play that helps users explore different services in an easy and modern way.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Built With
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Tayyibat
-Tayyibat mobile application published on Google Play.
->>>>>>> 3596f985a0cd6beac39bf7b9d06a2abac6024fb4
+---
+
+## 🚀 Status
+Published on Google Play ✔️
+
+---
+
+## 👨‍💻 Developer
+mohamadsabry2040-cmd
