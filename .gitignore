@@ -1,0 +1,26 @@
+# Flutter / Dart
+.dart_tool/
+.build/
+build/
+.pub/
+.packages
+.pub-cache/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Android
+/android/key.properties
+*.jks
+
+# Logs
+*.log
+
+# Generated files
+*.lock
+*.pyc
